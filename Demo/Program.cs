@@ -73,12 +73,33 @@
 
 
 
-            rectangle rectangle = new rectangle();
-            rectangle.dim01= 10;
-            rectangle.dim02= 20;
-            decimal area =rectangle.calarea();
-            Console.WriteLine(area);
+            //rectangle rectangle = new rectangle();
+            //rectangle.dim01= 10;
+            //rectangle.dim02= 20;
+            //decimal area =rectangle.calarea();
+            //Console.WriteLine(area);
 
+            //Utility utility = new Utility(10,122);
+            //utility.ToString();
+            //Console.WriteLine(utility.cmtoinch(45));
+
+            //Utility u01 = new Utility(10, 550);
+            //Console.WriteLine(u01.cmtoinch(45));
+
+            //Utility.cmtoinch(45);
+
+
+            //Console.WriteLine(u01.CalcCircleArea(55));
+
+            //Utility.CalcCircleArea(55);
+
+
+            //Utility.CalcCircleArea(88);
+
+
+
+            //Employee employee = new Employee() { id=10, name ="bjb",age=10 };
+            //employee.Print();
 
 
 
